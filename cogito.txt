@@ -1,4 +1,8 @@
 Cogito ergo sum
 Edo ergo sum
 I have a new line
+<<<<<<< HEAD
 juuuust the tip....
+=======
+Oh dear lord, I am in a new branch. Can it hold my weight?
+>>>>>>> testing
